@@ -2,7 +2,7 @@
 
 It is the Ezequiel’s Robot for Automated and Algorithmic Trading, an implementation of [HyperX](https://github.com/ezlage/HyperX), [xLedger](https://github.com/ezlage/xLedger) and [Hazard](https://github.com/ezlage/Hazard) with proprietary strategies and parameters from the same developer.
 
-The only goal here will be to demonstrate the implementation, as the developer's strategies will not be published. It is not a matter of selfishness or greed, but of protecting everyone's interests. The more people simultaneously execute the same strategies, with the same parameters, the lower the profitability of all of them. If each one develops its strategies and parameters, everyone will be able to use the same mechanism without mutually harming themselves.
+The only goal here will be to demonstrate the implementation, as the developer's strategies and parameters will not be published. It is not a matter of selfishness or greed, but of protecting everyone's interests. The more people simultaneously execute the same strategies, with the same parameters, the lower the profitability of all of them. If each one develops its strategies and parameters, everyone will be able to use the same mechanism without mutually harming themselves.
 
 This repository has already been initialized, but it will take some time to receive the initial code.
 
